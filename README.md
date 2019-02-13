@@ -3,6 +3,6 @@ Teste de introducao shell iscript
 
 ##ANDERSON 
 
-Testando o markdown
+Testando o **markdown**
 
-Configuracoes iniciais.
+*Configuracoes* iniciais.
