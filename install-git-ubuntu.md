@@ -1,8 +1,8 @@
-#### Ubuntu Installation Procedures
+## Ubuntu Installation Procedures
 
-these procedures will get you up and running in an Ubuntu environment.
+1. -
 
-## Install **Git** on *Ubuntu*
+### Install **Git** on *Ubuntu*
 
 ```
 1. Step 1 - Type in the terminal, sudo apt-get update(Provide the root user password)
